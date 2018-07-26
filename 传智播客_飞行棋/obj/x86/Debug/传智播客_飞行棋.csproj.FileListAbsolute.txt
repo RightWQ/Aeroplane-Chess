@@ -1,0 +1,14 @@
+C:\Users\王恰WQ\AppData\Local\Temporary Projects\传智播客_飞行棋\bin\Debug\传智播客_飞行棋.exe
+C:\Users\王恰WQ\AppData\Local\Temporary Projects\传智播客_飞行棋\bin\Debug\传智播客_飞行棋.pdb
+C:\Users\王恰WQ\AppData\Local\Temporary Projects\传智播客_飞行棋\obj\x86\Debug\传智播客_飞行棋.exe
+C:\Users\王恰WQ\AppData\Local\Temporary Projects\传智播客_飞行棋\obj\x86\Debug\传智播客_飞行棋.pdb
+F:\CLL\C#\VSC#Express\传智播客_飞行棋\传智播客_飞行棋\obj\x86\Debug\传智播客_飞行棋.exe
+F:\CLL\C#\VSC#Express\传智播客_飞行棋\传智播客_飞行棋\obj\x86\Debug\传智播客_飞行棋.pdb
+F:\CLL\C#\VSC#Express\传智播客_飞行棋\传智播客_飞行棋\bin\Debug\传智播客_飞行棋.exe
+F:\CLL\C#\VSC#Express\传智播客_飞行棋\传智播客_飞行棋\bin\Debug\传智播客_飞行棋.pdb
+G:\传智播客_飞行棋\传智播客_飞行棋\obj\x86\Debug\传智播客_飞行棋.exe
+G:\传智播客_飞行棋\传智播客_飞行棋\obj\x86\Debug\传智播客_飞行棋.pdb
+G:\传智播客_飞行棋\传智播客_飞行棋\bin\Debug\传智播客_飞行棋.exe
+G:\传智播客_飞行棋\传智播客_飞行棋\bin\Debug\传智播客_飞行棋.pdb
+F:\CLL\GitHub\GitBash\GitRepo\Aeroplane-Chess\传智播客_飞行棋\obj\x86\Debug\传智播客_飞行棋.exe
+F:\CLL\GitHub\GitBash\GitRepo\Aeroplane-Chess\传智播客_飞行棋\obj\x86\Debug\传智播客_飞行棋.pdb
